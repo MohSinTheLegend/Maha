@@ -96,7 +96,7 @@ logo ="""
 \033[1;97m I Don't Have An Attitude Problem
 \033[1;97m I Just Have An Personality You Can't Handle It
             \x1b[1;41m Creator MOHSIN ALI ! \x1b[00m
-\x1b[1;97m\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n  \x1b[1;97m[\x1b[1;92m\xe2\x80\xa2\x1b[1;97m] FACEBOOK : MOHSIN ALI\n  \x1b[1;97m[\x1b[1;92m\xe2\x80\xa2\x1b[1;97m] GITHUB : github.com/MohsinTheLegend\n  \x1b[1;97m[\x1b[1;92m\xe2\x80\xa2\x1b[1;97m] Page : 𝙈𝙊𝙃𝙎𝙄𝙉 𝙏𝙍𝙄𝘾𝙆𝙀𝙍 ツ\n  \x1b[1;97m[\x1b[1;92m\xe2\x80\xa2\x1b[1;97m]Coded ByBy MOHSIN ALIALI\n  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+\x1b[1;97m\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~\n  \x1b[1;97m[\x1b[1;92m\xe2\x80\xa2\x1b[1;97m] FACEBOOK : MOHSIN ALI\n  \x1b[1;97m[\x1b[1;92m\xe2\x80\xa2\x1b[1;97m] GITHUB : github.com/MohsinTheLegend\n  \x1b[1;97m[\x1b[1;92m\xe2\x80\xa2\x1b[1;97m] Page : 𝙈𝙊𝙃𝙎𝙄𝙉 𝙏𝙍𝙄𝘾𝙆𝙀𝙍 ツ\n  \x1b[1;97m[\x1b[1;92m\xe2\x80\xa2\x1b[1;97m] Coded By : MOHSIN ALI\n  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 
 
